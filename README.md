@@ -56,10 +56,6 @@ A aplicação permite que gestores acompanhem KPIs críticos, produtividade téc
 5.  **Acesse**
     O navegador abrirá automaticamente em: `http://localhost:8501`
 
-## 📷 Screenshots
-
-*(Recomendado: Adicione aqui um print da tela do seu dashboard rodando)*
-
 ## 📄 Licença
 
 Este projeto está sob a licença MIT.
